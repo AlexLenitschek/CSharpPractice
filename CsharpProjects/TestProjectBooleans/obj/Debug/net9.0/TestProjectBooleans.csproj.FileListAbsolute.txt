@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\bin\Debug\net9.0\TestProjectBooleans.exe
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\bin\Debug\net9.0\TestProjectBooleans.deps.json
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\bin\Debug\net9.0\TestProjectBooleans.runtimeconfig.json
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\bin\Debug\net9.0\TestProjectBooleans.dll
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\bin\Debug\net9.0\TestProjectBooleans.pdb
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\obj\Debug\net9.0\TestProjectBooleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\obj\Debug\net9.0\TestProjectBooleans.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\obj\Debug\net9.0\TestProjectBooleans.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\obj\Debug\net9.0\TestProjectBooleans.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\obj\Debug\net9.0\TestProjectBooleans.dll
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\obj\Debug\net9.0\refint\TestProjectBooleans.dll
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\obj\Debug\net9.0\TestProjectBooleans.pdb
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\obj\Debug\net9.0\TestProjectBooleans.genruntimeconfig.cache
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectBooleans\obj\Debug\net9.0\ref\TestProjectBooleans.dll

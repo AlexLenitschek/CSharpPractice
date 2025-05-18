@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\bin\Debug\net9.0\TestProjectSwitch.exe
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\bin\Debug\net9.0\TestProjectSwitch.deps.json
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\bin\Debug\net9.0\TestProjectSwitch.runtimeconfig.json
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\bin\Debug\net9.0\TestProjectSwitch.dll
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\bin\Debug\net9.0\TestProjectSwitch.pdb
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\obj\Debug\net9.0\TestProjectSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\obj\Debug\net9.0\TestProjectSwitch.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\obj\Debug\net9.0\TestProjectSwitch.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\obj\Debug\net9.0\TestProjectSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\obj\Debug\net9.0\TestProjectSwitch.dll
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\obj\Debug\net9.0\refint\TestProjectSwitch.dll
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\obj\Debug\net9.0\TestProjectSwitch.pdb
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\obj\Debug\net9.0\TestProjectSwitch.genruntimeconfig.cache
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectSwitch\obj\Debug\net9.0\ref\TestProjectSwitch.dll

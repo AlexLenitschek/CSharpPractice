@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cPvWgPd26NAIMdqLZnrHAou9gsVxQ6pHlkMiWsdvoWs=",
+  "Source": "TestApi7",
+  "BasePath": "_content/TestApi7",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
