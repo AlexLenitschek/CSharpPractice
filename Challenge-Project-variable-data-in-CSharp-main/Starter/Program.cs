@@ -131,7 +131,7 @@ do
             break;
 
         case "2":
-            // #1 Display all dogs with a multiple search characteristics
+            // #1 Display all dogs with a multiple search characteristics.
 
             string dogCharacteristic = "";
 
