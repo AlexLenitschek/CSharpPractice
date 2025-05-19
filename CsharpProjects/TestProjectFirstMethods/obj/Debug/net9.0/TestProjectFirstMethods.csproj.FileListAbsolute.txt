@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\bin\Debug\net9.0\TestProjectFirstMethods.exe
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\bin\Debug\net9.0\TestProjectFirstMethods.deps.json
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\bin\Debug\net9.0\TestProjectFirstMethods.runtimeconfig.json
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\bin\Debug\net9.0\TestProjectFirstMethods.dll
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\bin\Debug\net9.0\TestProjectFirstMethods.pdb
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\TestProjectFirstMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\TestProjectFirstMethods.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\TestProjectFirstMethods.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\TestProjectFirstMethods.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\TestProjectFirstMethods.sourcelink.json
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\TestProjectFirstMethods.dll
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\refint\TestProjectFirstMethods.dll
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\TestProjectFirstMethods.pdb
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\TestProjectFirstMethods.genruntimeconfig.cache
+C:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TestProjectFirstMethods\obj\Debug\net9.0\ref\TestProjectFirstMethods.dll
