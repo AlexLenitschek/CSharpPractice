@@ -547,49 +547,179 @@ davaldes@hayworth.com
 
 #region Return Arrays from methods.
 
-int target = 55;
-int[] coins = new int[] {5, 5, 50, 25, 25, 10, 5};
-int[,] result = TwoCoins(coins, target);
+// int target = 55;
+// int[] coins = new int[] {5, 5, 50, 25, 25, 10, 5};
+// int[,] result = TwoCoins(coins, target);
 
-if (result.Length == 0) 
+// if (result.Length == 0) 
+// {
+//     Console.WriteLine("No two coins make change");
+// } 
+// else 
+// {
+//     Console.WriteLine("Change found at positions:");
+//     for (int i = 0; i < result.GetLength(0); i++) 
+//     {
+//         if (result[i,0] == -1) 
+//         {
+//             break;
+//         }
+//         Console.WriteLine($"{result[i,0]},{result[i,1]}");
+//     }
+// }
+
+// int[,] TwoCoins(int[] coins, int target) 
+// {
+//     int[,] result = {{-1,-1},{-1,-1},{-1,-1},{-1,-1},{-1,-1}};
+//     int count = 0;
+
+//     for (int curr = 0; curr < coins.Length; curr++) 
+//     {
+//         for (int next = curr + 1; next < coins.Length; next++) 
+//         {
+//             if (coins[curr] + coins[next] == target) 
+//             {
+//                 result[count, 0] = curr;
+//                 result[count, 1] = next;
+//                 count++;
+//             }
+//             if (count == result.GetLength(0)) 
+//             {
+//                 return result;
+//             }
+//         }
+//     }
+//     return (count == 0) ? new int[0,0] : result;
+// }
+
+#endregion
+
+#region 
+
+// Random random = new Random();
+
+
+// Console.WriteLine("Would you like to play? (Y/N)");
+// if (ShouldPlay()) 
+// {
+//     PlayGame();
+// }
+
+// void PlayGame()
+// {
+//     var play = true;
+
+//     while (play)
+//     {
+//         var target = random.Next(1, 6);
+//         var roll = random.Next(1, 7);
+
+//         Console.WriteLine($"Roll a number greater than {target} to win!");
+//         Console.WriteLine($"You rolled a {roll}");
+//         Console.WriteLine(WinOrLose(target, roll));
+//         Console.WriteLine("\nPlay again? (Y/N)");
+
+//         play = ShouldPlay();
+//     }
+// }
+
+// bool ShouldPlay()
+// {
+//     if (Console.ReadLine()?.ToLower() == "y")
+//         return true;
+//     else
+//         return false;
+// }
+
+// string WinOrLose(int target, int roll)
+// {
+//     if (target > roll)
+//         return $"You have lost.";
+//     else if (target == roll)
+//         return $"Both sides threw a {roll}, No one Wins!";
+//     else
+//                 return $"You win!";
+// }
+
+#endregion
+
+#region Guided Project - Plan a petting Zoo visit.
+
+/*
+- There will be three visiting schools
+    - School A has six visiting groups (the default number)
+    - School B has three visiting groups
+    - School C has two visiting groups
+
+- For each visiting school, perform the following tasks
+    - Randomize the animals
+    - Assign the animals to the correct number of groups
+    - Print the school name
+    - Print the animal groups
+*/
+using System;
+
+string[] pettingZoo =
 {
-    Console.WriteLine("No two coins make change");
-} 
-else 
+    "alpacas", "capybaras", "chickens", "ducks", "emus", "geese",
+    "goats", "iguanas", "kangaroos", "lemurs", "llamas", "macaws",
+    "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
+};
+
+PlanSchoolVisit("School A");
+PlanSchoolVisit("School B", 3);
+PlanSchoolVisit("School C", 2);
+
+void PlanSchoolVisit(string schoolName, int groups = 6)
 {
-    Console.WriteLine("Change found at positions:");
-    for (int i = 0; i < result.GetLength(0); i++) 
+    RandomizeAnimals();
+    string[,] group = AssignGroup(groups);
+    Console.WriteLine(schoolName);
+    PrintGroup(group);
+}
+
+void RandomizeAnimals()
+{
+    Random random = new Random();
+
+    for (int i = 0; i < pettingZoo.Length; i++)
     {
-        if (result[i,0] == -1) 
-        {
-            break;
-        }
-        Console.WriteLine($"{result[i,0]},{result[i,1]}");
+        int r = random.Next(i, pettingZoo.Length);
+
+        string temp = pettingZoo[i];
+        pettingZoo[i] = pettingZoo[r];
+        pettingZoo[r] = temp;
     }
 }
 
-int[,] TwoCoins(int[] coins, int target) 
-{
-    int[,] result = {{-1,-1},{-1,-1},{-1,-1},{-1,-1},{-1,-1}};
-    int count = 0;
 
-    for (int curr = 0; curr < coins.Length; curr++) 
+string[,] AssignGroup(int groups = 6)
+{
+    string[,] result = new string[groups, pettingZoo.Length / groups];
+    int start = 0;
+
+    for (int i = 0; i < groups; i++) // i < result.GetLength(0);
     {
-        for (int next = curr + 1; next < coins.Length; next++) 
+        for (int j = 0; j < result.GetLength(1); j++)
         {
-            if (coins[curr] + coins[next] == target) 
-            {
-                result[count, 0] = curr;
-                result[count, 1] = next;
-                count++;
-            }
-            if (count == result.GetLength(0)) 
-            {
-                return result;
-            }
+            result[i, j] = pettingZoo[start++];
         }
     }
-    return (count == 0) ? new int[0,0] : result;
+
+    return result;
+}
+
+void PrintGroup(string[,] group) 
+{
+    for (int i = 0; i < group.GetLength(0); i++) 
+    {
+        Console.Write($"Group {i + 1}: ");
+        for (int j = 0; j < group.GetLength(1); j++) 
+        {
+            Console.Write($"{group[i,j]}  ");
+        }
+        Console.WriteLine();
+    }
 }
 
 #endregion
