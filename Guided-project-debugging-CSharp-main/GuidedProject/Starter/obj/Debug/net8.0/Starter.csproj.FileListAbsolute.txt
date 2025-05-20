@@ -1,0 +1,15 @@
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/alexl/Dokumente/Repos/CSharpPractice/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
