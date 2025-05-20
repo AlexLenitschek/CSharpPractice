@@ -1,0 +1,15 @@
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.exe
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.deps.json
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.runtimeconfig.json
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.dll
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.pdb
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.AssemblyInfoInputs.cache
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.AssemblyInfo.cs
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.csproj.CoreCompileInputs.cache
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.sourcelink.json
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.dll
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\refint\ThrowExceptions101.dll
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.pdb
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.genruntimeconfig.cache
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\ThrowExceptions101\obj\Debug\net9.0\ref\ThrowExceptions101.dll

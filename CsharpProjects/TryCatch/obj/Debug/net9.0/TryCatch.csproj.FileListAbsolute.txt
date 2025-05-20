@@ -1,0 +1,15 @@
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\bin\Debug\net9.0\TryCatch.exe
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\bin\Debug\net9.0\TryCatch.deps.json
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\bin\Debug\net9.0\TryCatch.runtimeconfig.json
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\bin\Debug\net9.0\TryCatch.dll
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\bin\Debug\net9.0\TryCatch.pdb
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\TryCatch.AssemblyInfoInputs.cache
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\TryCatch.AssemblyInfo.cs
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\TryCatch.csproj.CoreCompileInputs.cache
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\TryCatch.sourcelink.json
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\TryCatch.dll
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\refint\TryCatch.dll
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\TryCatch.pdb
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\TryCatch.genruntimeconfig.cache
+c:\Users\Alex\source\repos\MicrosoftLearn\CsharpProjects\TryCatch\obj\Debug\net9.0\ref\TryCatch.dll
